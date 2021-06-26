@@ -228,8 +228,7 @@ section .title::after {
 /*tablet screen lagi*/
 @media (max-width: 990px) {
   .home {
-    height: 500px;
-    width: 500px;
+    width: 100%;
   }
   .home .home-content .text-2 {
     font-size: 55px;
